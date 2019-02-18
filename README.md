@@ -16,7 +16,7 @@ Le Projet consiste en la création d' une petite application de Gestion d'abonne
 
    
 
-![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 02-27-30.png)
+![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2002-27-30.png)
 
 ## II.Laravel(Gestion) Abonnement/Facture
 
@@ -24,7 +24,7 @@ Le Projet consiste en la création d' une petite application de Gestion d'abonne
 
 
 
-​	![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 02-46-10.png)
+​	![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot from 2019-02-18 02-46-10.png)
 
 
 
