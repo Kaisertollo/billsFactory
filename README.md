@@ -75,3 +75,6 @@ Montre Les facture de l'abonnement1:en montrant en rouge les factures impayé;
 Saisir Number Facture pour afficher les infos et payer votre Facture
 
 ![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2003-29-11.png)
+
+
+Reference Angular Documentation,Laravel Documentation,Ionic Documentation,Youtube channel Traversy Media
