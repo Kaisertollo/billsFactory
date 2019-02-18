@@ -16,7 +16,7 @@ Le Projet consiste en la création d' une petite application de Gestion d'abonne
 
    
 
-![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 02-27-30.png)
+![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2002-27-30.png)
 
 ## II.Laravel(Gestion) Abonnement/Facture
 
@@ -24,7 +24,7 @@ Le Projet consiste en la création d' une petite application de Gestion d'abonne
 
 
 
-​	![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 02-46-10.png)
+​	![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2002-46-10.png)
 
 
 
@@ -38,7 +38,7 @@ Le Projet consiste en la création d' une petite application de Gestion d'abonne
 
 ### 2.Nouvelle Facture :fire:
 
-![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 02-55-29.png)
+![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2002-55-29.png)
 
 ###  
 
@@ -50,9 +50,9 @@ Showcase :fire:
 
 
 
-![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 03-02-06.png)
+![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2003-02-06.png)
 
-![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 03-02-42.png)
+![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2003-02-42.png)
 
 1 bouton imprimer(Window.print())
 
@@ -62,7 +62,7 @@ Showcase :fire:
 
 ### 3.voir Factures 
 
-![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 03-08-33.png)
+![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2003-08-33.png)
 
 Montre Les facture de l'abonnement1:en montrant en rouge les factures impayé;
 
@@ -70,8 +70,8 @@ Montre Les facture de l'abonnement1:en montrant en rouge les factures impayé;
 
 ## III. Payement Facture(ionic/Rest)
 
-![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 03-28-38.png)
+![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2003-28-38.png)
 
 Saisir Number Facture pour afficher les infos et payer votre Facture
 
-![](/home/kaisertollo/Pictures/Screenshot from 2019-02-18 03-29-11.png)
+![](https://github.com/Kaisertollo/billsFactory/blob/master/App's%20screenshots/Screenshot%20from%202019-02-18%2003-29-11.png)
