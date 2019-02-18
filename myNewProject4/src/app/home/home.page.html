@@ -1,0 +1,32 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Ionic Blank:Bills Factory Payement 
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  The Best Service 
+  <p>Payer vos Factures</p>
+  <ion-item>
+      <ion-label position="fixed">#facture</ion-label>
+      <ion-input type="number"  #myname placeholder="numero facture"></ion-input>
+     
+    </ion-item>
+    <ion-button (click)="getName(myname.value)" color="dark">afficher facture</ion-button>
+    <ion-list>
+        <ion-badge color="primary">#Facture:{{id_f}}</ion-badge><br>
+        <ion-badge color="primary">#Abonnement{{id_a}}</ion-badge><br>
+        <ion-badge color="primary">#Mois:{{mois}}</ion-badge><br>
+        <ion-badge color="primary">#Consomation:{{conso}}</ion-badge><br>
+        <ion-badge color="primary">#prix:{{prix}}</ion-badge><br>
+        
+    </ion-list>
+    
+    
+    
+  <ion-button  color="dark">payer</ion-button>
+  
+</ion-content>
+ 
